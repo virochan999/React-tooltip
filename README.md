@@ -19,6 +19,6 @@ This is a simple tooltip component for React that displays a tooltip when you ho
 ## Props
 ### The Tooltip Component accepts the following props:
 
-**position (string, required):** Specifies the position of the tooltip. Available options are *"top,"* *"bottom,"* *"right,"* and *"left."*
-**content (string, required):** The content to be displayed in the tooltip.
-**children (ReactNode, required):** The element to which the tooltip is attached.
+1. **position (string, required):** Specifies the position of the tooltip. Available options are *"top,"* *"bottom,"* *"right,"* and *"left."* 
+2. **content (string, required):** The content to be displayed in the tooltip.
+3. **children (ReactNode, required):** The element to which the tooltip is attached.
